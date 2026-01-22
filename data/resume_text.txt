@@ -1,0 +1,68 @@
+MOHAMED SHAHABAS
+Email: mohdshahabasm@gmail.com | Phone: +91-8129917078 | India
+LinkedIn: https://www.linkedin.com/in/mohamed-shahabas-929b04151/
+GitHub: https://github.com/shahabas9
+Portfolio: shahabas.qzz.io
+PROFESSIONAL SUMMARY
+Motivated AI/Data Science professional with expertise in Generative AI (RAG, LLMs), machine
+learning, and scalable data solutions. Skilled in building end-to-end GenAI systems using LLMs,
+RAG architecture, and modern tools like Haystack, LangChain, LlamaIndex, and various vector
+databases. Hands-on with vector stores such as FAISS, Pinecone, Weaviate, AstraDB, and Neo4j.
+Extensive experience with LLMs including OpenAI GPT, Hugging Face models, Gemini, and Mistral.
+Proficient in deploying and scaling GenAI solutions using Docker, Azure, and AWS.
+TECHNICAL SKILLS
+Languages: Python, JavaScript, CSS, SQL, HTML
+ML & DL: Numpy, Pandas, Scikit-Learn, TensorFlow, Pytorch, OpenCV
+GenAI & NLP: HuggingFace, Gemini, OpenAI, LangChain, LlamaIndex, Haystack, RAG
+Cloud & Web: AWS EC2, Azure (Databricks, DataFactory), Flask, Streamlit, FastAPI
+Databases: PostgreSQL, MongoDB, Snowflake, AstraDB, Neo4j, Pinecone, Weaviate, FAISS
+Tools: Git, GitHub, Kafka
+EXPERIENCE
+Data Scientist | 2Cloud, Wayanad Sep 2025 – Present
+Leading a data science team to drive AI innovation and delivery.
+Developing and deploying Generative AI applications for business use cases.
+Designing and implementing workflow automation to optimize efficiency.
+Building and presenting proof-of-concepts (POCs) for scalable AI-driven solutions.
+Collaborating with cross-functional teams to integrate AI solutions into existing business
+systems.
+Software Developer | Mezab Air Conditioning, Doha, Qatar May 2024 – Jun 2025
+Developed ERP web app with HTML, CSS, JS, and PostgreSQL.
+Implemented dynamic quotation management and real-time CRUD interfaces.
+Integrated frontend with backend PostgreSQL for seamless data handling.
+Data Science Engineer | Jidoka Technologies, Chennai, India Jun 2022 – Feb 2024
+Built AI-based vision inspection models with Python and OpenCV.
+Deployed DL models at customer sites and supported production testing.
+Handled end-to-end pipelines from image labeling (CVAT) to implementation.
+GEN AI & DATA SCIENCE PROJECTS
+E-Commerce Chatbot with RAG & Gemini AI
+Developed an end-to-end chatbot for answering e-commerce product queries by analyzing
+customer reviews.
+Implemented a Retrieval-Augmented Generation (RAG) architecture using Google’s Gemini
+model and LangChain for context-aware response generation.
+Integrated Astra DB vector store for efficient semantic search and retrieval of relevant
+review data.
+Built a Flask-based web interface allowing users to ask product-related questions and
+receive AI-generated responses.
+Enhanced user experience by providing accurate, review-based insights instead of generic
+answers.
+Supply Chain Demand Forecasting Tool
+Developed an end-to-end ML pipeline using DVC for reproducibility, version control, and
+streamlined workflow orchestration.
+Implemented a modular design (components, config management) for maintainability and
+easy integration of new forecasting models.
+Ensured data reliability via automated validation and simplified deployment using Docker for
+consistent environments.
+Built an interactive Streamlit UI for intuitive user interaction with forecasts and model
+insights.
+End-to-End QA System with Haystack & FastAPI
+Built a FastAPI-based question-answering system using Haystack, featuring preconfigured
+pipelines for embeddings, retrieval, and response generation.
+Integrated Pinecone vector database for efficient document storage/retrieval and PDF
+processing for automated text ingestion and embedding.
+Designed a user-friendly web interface to streamline query interactions and display
+answers.
+Developed a modular, extensible architecture for easy customization of components
+(models, retrievers, databases).
+EDUCATION
+M.Tech - Mechatronics | Vellore Institute of Technology | 2018–2020
+B.E. - Automobile Engineering | Anna University | 2012–2016
