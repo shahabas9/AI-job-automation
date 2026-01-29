@@ -1,0 +1,22 @@
+{
+    "profile": {
+        "primary_role": "Software Engineer",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker"
+        ],
+        "experience_years": 3,
+        "seniority": "mid"
+    },
+    "job": {
+        "job_title": "Backend Engineer",
+        "company_name": "Tech Corp",
+        "job_description": "We are looking for an experienced Backend Engineer to join our growing team. You will be responsible for building scalable APIs and microservices using Python and FastAPI. Experience with PostgreSQL and containerization is required.",
+        "job_requirements": "3+ years of Python development experience, Strong knowledge of FastAPI or similar frameworks, Experience with PostgreSQL and database design, Docker and containerization skills, Excellent problem-solving abilities",
+        "location": "San Francisco, CA (Hybrid)",
+        "job_type": "Full-time",
+        "salary_range": "$120,000 - $160,000"
+    }
+}

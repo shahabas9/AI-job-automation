@@ -41,3 +41,11 @@ class QdrantService:
 
         # response.points is the list of ScoredPoint
         return response.points
+
+    def clear(self):
+        """Delete all points from the collection"""
+        try:
+            self.client.delete_collection(collection_name=self.collection_name)
+            self._init_collection()  # Recreate the collection
+        except Exception as e:
+            print(f"Error clearing collection: {e}")
